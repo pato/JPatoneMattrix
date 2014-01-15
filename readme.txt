@@ -6,11 +6,12 @@
 	                                                                          
 
 Java-based pentatonic tone matrix.
+==================================
 
 Customizable grid-size and note distribution.
 
 Status: Done
-Completion [98%]
+Completion [99%]
 
 Working:
 Selecting instruments
@@ -18,3 +19,7 @@ Changing key
 Tone matrix
 
 Not-working:
+
+----------
+
+You can compile using `make all` and run using `make run`
